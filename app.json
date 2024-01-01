@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "JobMate",
-    "slug": "JobMate"
+    "slug": "JobMate",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "aec7dd93-dc2f-428d-a9d8-7ac7b60c0a2f"
+      }
+    },
+    "android": {
+      "package": "com.amitk161.JobMate"
+    }
   }
 }
